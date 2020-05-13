@@ -1,2 +1,2 @@
-# dubaxx.github.io
-Repository for my personal site
+# personal-site
+Repository for my personal website
