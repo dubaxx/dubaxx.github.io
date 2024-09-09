@@ -64,7 +64,7 @@ ul{
 .box li a:hover{
     color: #b9b9b9;
 }
-.footer{
+/* .footer{
     text-align: center;
     position: fixed;
     width: 100%;
@@ -76,7 +76,7 @@ ul{
     font-size: 12px;
     letter-spacing: 2px;
     font-weight: 100;
-}
+} */
 
 @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
 @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
